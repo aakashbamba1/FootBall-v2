@@ -1,0 +1,111 @@
+.retrieve{
+    position: relative;
+    left: 10px;
+}
+.out-bg{
+    background-color: #e2eef4;
+    padding: 40px 10px 30px 10px;
+}
+
+.in-bg{
+    background-color: #ffffff;
+}
+.out-bg2{
+    background-color: #ffffff;
+}
+.main-title{
+    text-align: center;
+}
+
+label, input, span, select{
+    color: #6e7377;
+}
+
+.left{
+    padding: 10px;
+
+    width: 50vw;
+    border: 1px solid grey;
+    /* height: 50vw; */
+}
+.right{
+    padding: 10px;
+    width: 50vw;
+    border: 1px solid grey;
+}
+.container{
+    display: flex;
+}
+.by3{
+    width: 33.33vw;
+    padding: 10px;
+    border: 1px solid grey;
+}
+.by4{
+    width: 25vw;
+    padding: 10px;
+    border: 1px solid grey;
+}
+.b4{
+    width: 20vw;
+}
+.place{
+    text-align: center;
+}
+
+.placebtn{
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 41vw;
+}
+.btnnn{
+    border-radius: 5px;
+    size: 100px;
+    color: #fff;
+    background-color: #92be64;
+
+}
+
+.region{
+    position: relative;
+    right: 13.6vw;
+}
+.region1{
+    position: relative;
+    right: 14.7vw;
+}
+
+.region2{
+    position: relative;
+    right: 15vw;
+}
+
+.inpt1{
+
+width: 33em;}
+
+.inpt2{
+    width: 21em;
+}
+
+.inpt3{
+    width: 70vh;
+}
+
+#b3{
+    display: inline;
+    position: relative;
+    left: 0em;
+}
+
+#i1{
+    width: 70vh;
+    
+}
+#i2{
+    width: 70vh;
+}
+#i3{
+    width: 70vh;
+}
